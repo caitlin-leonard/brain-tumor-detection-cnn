@@ -65,6 +65,5 @@ directory and run the prediction section of the script.
   from data loading and training to performance evaluation.</i>
 </p>
 
-
-Quickdraw badge test
+Quickdraw test
 
