@@ -64,3 +64,7 @@ directory and run the prediction section of the script.
   <i>This project demonstrates an end-to-end deep learning workflow for medical image analysis,
   from data loading and training to performance evaluation.</i>
 </p>
+
+
+Quickdraw badge test
+
